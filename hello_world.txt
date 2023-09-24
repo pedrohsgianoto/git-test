@@ -1,0 +1,3 @@
+Hello world! This is just a test
+We are here gathered to write some lines
+Of course, none of this makes any sense since is just text for testing git.
